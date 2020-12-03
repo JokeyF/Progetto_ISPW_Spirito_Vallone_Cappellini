@@ -1,0 +1,11 @@
+/*
+1  as a user, I want to remember easily when my products expire, so i can cook them.
+2  as a user, I want to know when i'm running out of food, so i can buy it.
+3  as a user, I want learn new recipes , so i can cook something different.
+4  as a user, I want to keep track of my supplies wherever i am, so i can hardly forget them.
+5  as a user, I want to know what my family want to eat, so i can buy what they want.
+6  as a user, I want a faster way to do the shopping list, so i earn more time.
+7  as a user, I want remember easily what i ate this week, so i can keep track of my diet.  (lo fa l'user, non la macchina. in base a ciò che ho mangiato faccio una lista della spesa diversa)
+8  as a user, I want to use my ingredients avoiding wastes, so I can spend less (so i can do a good action)
+9  as a user, I want to know when someone goes to the supermarket, so i can advise him about my request.
+*/

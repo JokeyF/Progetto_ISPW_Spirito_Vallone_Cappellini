@@ -1,0 +1,11 @@
+/*
+1 The system shall provide an editable shopping-list
+2 The system shall provide the list of products in the fridge
+3 The system shall provide alarms to advise the user about food expiring
+4 The system shall provide alarms to advise the shopping-list updates
+5 The system shall provide recipes suggestion
+6 The system shall provide a synched hosting service
+7 The system shall provide meals history
+8 The system shall provide a calendar
+9 The system shall provide a common-shopping-list builder
+*/

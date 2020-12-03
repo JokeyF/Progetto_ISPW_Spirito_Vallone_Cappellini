@@ -1,0 +1,37 @@
+incentivare con qualcosa le recensioni/segnalazione
+robba con log-in e registrazione
+
+
+
+funzionalità lista della spesa. ti aggiunge in automatico quello che reputi debba sempre esserci.
+ti dice dove comprarle?
+non consiglia dove comprare le ricette
+categorie di spesa precompilata: genero delle liste della spesa precompilate da me in base ai bisogni (per esempio diet-list contiene delle cose
+mentre sweets-list conterrà dolci). Io ci clicco e in automatico mi aggiunge alla lista della spesa il "Nome" di cio che manca, non mi dice
+dove trovare il prodotto.
+alarm che ti dice che qualcuno sta per andare a fare la spesa, così che tu possa aggiornare la lista in tempo reale.
+tenere sotto traccia la mia alimentazione, mi basta vedere cosa mi sono mangiato in questi giorni
+sezione consiglia ricette, prendo delle cose dal frigo e dico all'applicazione che le sto per cucinare. Questo serve come incentivo alle persone per farle avvisare l'app ogni volta che levano
+cose dal frigo, il guadagno sta nel avere delle ricette in base ai prodotti scelti per pranzo/cena.
+
+suddivisione categorie del "frigo virtuale"
+
+vegan vogliono elvare le ricette vegane
+l'app ti dice se qualcosa è subito scaduto
+rimuove dal "frigo virtuale" cio che levi o cio che scade
+combina i prodotti scaduti
+precompilato (gluten-free)
+correzione scrittura quando aggiungi prodotti, se scrivi male non trovi ricette. (magari se non trova ricette con la scirtta che hai aggiunto ti dice subito "hey non ho trovato ricette con psata, 
+ricontrola cosa hai aggiunto!"
+punto debole:aggiornare quando levo le cose
+alert that something important is missing, not a ringtone but something like a red box that everytime you open the list remember you need "water" or something important
+
+per le cucine, chef, fast food?
+
+pulsantone da premere se vai a fare la spesa, così tutti gli altri lo sanno e vengono avvisati (magari aggiungono qualche prodotto all'ultimo)
+
+se un prodotto aggiunto non ha scadenza, l'app ti avvisa regolarmente ogni tot giorni quando scade (forse)
+
+se non metti la scadenza, non tiene conto della scadenza, semplicemente verrà eliminato il prodotto quando lo levo io
+
+ricorda che non è basato su mobile, ma se serve per la logica del progetto dovrebbe andare bene
