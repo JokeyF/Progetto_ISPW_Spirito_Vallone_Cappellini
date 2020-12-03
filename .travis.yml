@@ -3,4 +3,5 @@ jdk:
 - openjdk8
 
 script:
-- ant ./HelloWorldProject/build.xml
+- cd HelloWorldProject
+- ant build
