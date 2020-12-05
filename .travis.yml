@@ -4,7 +4,7 @@ jdk:
 
 addons:
   sonarcloud:
-    oprganization: "jokeyf"
+    oprganization: "JokeyF"
     token: "54906916b3e95ad6c0ee61db873630822117dfab"
     
 script:
